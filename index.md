@@ -9,4 +9,4 @@ var myVar = "Hello, world!";
 ```
 - [x] *1 Сompleted.* *1 Завершен.*
 - [x] *2 Сompleted.* *2 Завершен.*
-- [ ] ***To be continued:)***\
+- [ ] ***To be continued:)***
