@@ -1,7 +1,5 @@
-# Hi!
-# *This is my first experience writing code in Markdown and posting it in a GitHub repository.*
-### Привет!
-### *Это мой первый опыт работы по написанию кода на Markdown и его размещения в репозитории ГитХаб.*
+# *Hi, this is my first experience writing code in Markdown and posting it in a GitHub repository.*
+### *Привет, это мой первый опыт работы по написанию кода на Markdown и его размещения в репозитории ГитХаб.*
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)\
 **Below is the code, which is written in JavaScript.**\
