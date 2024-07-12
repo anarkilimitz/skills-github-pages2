@@ -1,4 +1,4 @@
 ---
 title: "Web 1010"
-date: YYYY-MM-DD
+date: 2024-07-12
 ---
